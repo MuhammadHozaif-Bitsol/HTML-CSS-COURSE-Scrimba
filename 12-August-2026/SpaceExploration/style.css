@@ -1,9 +1,17 @@
 body {
-  background-image: url("./space.avif");
+  background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Jza3dtMWtvdDR4Z2l0ZjRpZDAwbmIzN3oydTl2dW9zZGJ6bHE0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif");
   color: white;
   background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: "Orbitron";
 }
-.heading-div {
-  display: block;
-  margin: auto;
+.btn {
+  padding: 6px 12px;
+  background: white;
+  border: none;
+  font-family: "Orbitron";
+}
+.underline {
+  border-bottom: 5px solid white;
 }
