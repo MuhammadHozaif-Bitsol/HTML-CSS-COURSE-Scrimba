@@ -1,0 +1,9 @@
+body {
+  background-image: url("./space.avif");
+  color: white;
+  background-size: cover;
+}
+.heading-div {
+  display: block;
+  margin: auto;
+}
