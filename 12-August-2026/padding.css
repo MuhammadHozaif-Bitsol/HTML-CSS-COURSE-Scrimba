@@ -2,4 +2,14 @@
   margin: 30px;
   background-color: grey;
   padding: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.follow {
+  border-color: #cfd9de;
+  color: #0f1419;
+  border: 1px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 30px;
 }
