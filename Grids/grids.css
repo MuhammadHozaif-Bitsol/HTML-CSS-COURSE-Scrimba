@@ -1,0 +1,11 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+}
+.parent {
+  width: 600px;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 1em;
+}
